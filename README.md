@@ -19,11 +19,6 @@ titanic-survival-prediction/
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
 git clone https://github.com/your-username/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
@@ -86,6 +81,5 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
 
 
